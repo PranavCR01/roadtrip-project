@@ -1,4 +1,4 @@
-# 🌤️ Roadtrip Weather Playlist Generator
+# 🌤️ Planning a Cool Weekend Trip from Bangalore Using Weather Data
 
 ![Project Banner](./Mood_map.png)
 
