@@ -82,6 +82,20 @@ A plot of destinations that aren't just cool — but also **interesting**.
 
 ---
 
+### 🎯 Why Madikeri?
+
+After filtering 1000+ locations using spherical distance (Haversine logic) and weather data, I shortlisted cool, accessible getaways. Among the top picks, **Madikeri** stood out:
+
+- **Cool Weather**: Max temp around 24.3°C — perfect escape from Bangalore’s summer heat.
+- **Scenic Attractions**: Abbey Falls, Pushpagiri Wildlife Sanctuary, misty roads, and panoramic hill views.
+- **Drive-ability**: Within 280 km — a smooth drive with plenty of pit stops along NH275.
+- **Vibe Fit**: The mood-mapped weather at surrounding stops inspired a chill, nature-vibe playlist.
+- **Balanced Choice**: Not too remote, not too commercial — ideal for a weekend roadtrip with friends.
+
+This wasn't just about data — it was about *using data to make the right call* 
+
+---
+
 ### 🗺️ Full Navigation Map
 
 [🧭 Click here to open this route on Google Maps](https://www.google.com/maps/dir/Bangalore/Vittal+Mallya+Rd,+Bengaluru,+Karnataka/Bangalore-Mysore+Road,+Bidadi/NICE+Peripheral+Ring+Road/Bengaluru-Mysuru+Expressway/Kanakapura+Rd,+Talaghattapura/Maddur/Mysore+Rd,+Mandya,+Karnataka/Mysuru,+Karnataka/Gonikoppal,+Karnataka/Madikeri)
@@ -124,4 +138,4 @@ Data + Music + Weather + Travel — all in one weekend project.
 
 ---
  
-By [YourName] — [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourhandle)
+By [Pranav Rajesh Charakondala] — [LinkedIn](https://www.linkedin.com/in/pranav-c-r-852752202/) | [GitHub](https://github.com/PranavCR01)
