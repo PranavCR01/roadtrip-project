@@ -74,7 +74,7 @@ Visualizing the 10 key locations and their associated music mood:
 
 ---
 
-### 🌈 Locations with Attractions
+### 🏞️ Locations with Attractions
 
 A plot of destinations that aren't just cool — but also **interesting**.
 
