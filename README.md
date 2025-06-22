@@ -96,7 +96,7 @@ Yes — we actually went!
 
 Here’s a snippet I took in Madikeri (where it was a cool 21°C 😎):
 
-🎥 **[Watch the weather clip](./weather_video.mp4)**  
+🎥 **[Watch the weather clip](https://youtube.com/shorts/WdWM5egHSn0?feature=share)**  
 📍 *Captured live during the trip*
 
 ---
