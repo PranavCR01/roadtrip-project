@@ -138,4 +138,4 @@ Data + Music + Weather + Travel — all in one weekend project.
 
 ---
  
-By [Pranav Rajesh Charakondala] — [LinkedIn](https://www.linkedin.com/in/pranav-c-r-852752202/) | [GitHub](https://github.com/PranavCR01)
+By **Pranav Rajesh Charakondala** — [LinkedIn](https://www.linkedin.com/in/pranav-c-r-852752202/) | [GitHub](https://github.com/PranavCR01)
