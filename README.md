@@ -88,13 +88,15 @@ A plot of destinations that aren't just cool — but also **interesting**.
 
 ![Maps Link](./maps_link.png)
 
+![Map Animation](map.gif)
+
 ---
 
 ## 📹 Real-World Proof
 
 Yes — we actually went!
 
-Here’s a snippet I took in Madikeri (where it was a cool 21°C 😎):
+Here’s a snippet I took in Madikeri (where it was a cool 23°C 😎):
 
 🎥 **[Watch the weather clip](https://youtube.com/shorts/WdWM5egHSn0?feature=share)**  
 📍 *Captured live during the trip*
@@ -119,15 +121,6 @@ Here’s a snippet I took in Madikeri (where it was a cool 21°C 😎):
 This wasn’t just a coding experiment — it genuinely helped me and my friends pick a **cool, scenic getaway**, and enjoy the journey with a **playlist that matched the vibe at every stop**.
 
 Data + Music + Weather + Travel — all in one weekend project.
-
----
-
-## 📂 Files in This Repo
-
-- `Roadtrip_Blr_to_Madikeri.ipynb` – Jupyter Notebook with full code
-- `Playlist.png`, `Mood_map.png`, etc. – Project visualizations
-- `weather_video.mp4` – Real travel footage
-- `map.mp4` – Navigation demo
 
 ---
  
